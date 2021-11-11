@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Altamash "Alta" Ali
 - 👀 I’m interested in application design and development
-- 🌱 I’m currently learning TypeScript, React.js, Redux.js, Next.js, Gatsby.js, Express.js
+- 🌱 I’m currently learning TypeScript, React, Redux, Next
 - 💞️ I’m looking to collaborate on FinTech projects
 - 📫 Reach me at alta@duck.com
 
