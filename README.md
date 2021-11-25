@@ -2,7 +2,7 @@
 - 👀 I’m interested in application design and development
 - 🌱 I’m currently learning TypeScript, React.js, Redux.js, and Next.js
 - 💞️ I’m looking to collaborate on FinTech projects
-- 📫 Reach me at alta@duck.com
+- 📫 Reach me at contact@altamashali.com
 
 <!---
 altamashali/altamashali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
