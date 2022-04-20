@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Altamash!
+- 👋 Hi, I’m Altamash *(ul-tah-mush)*!
 - 👀 I currently work as a full-stack software engineer.
 - 🌱 I’m currently learning [Next](nextjs.org) but am always looking to grow my skill set.
 - 💞️ Languages and frameworks I'm familiar with include TypeScript, React, Redux, and Python.
