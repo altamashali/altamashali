@@ -1,4 +1,4 @@
-Hi 👋 My name is Altamash!
+Hi, I am Altamash 👋🏼
 ==========================
 
 Full-Stack Software Engineer
