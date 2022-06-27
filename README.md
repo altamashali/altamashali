@@ -1,18 +1,15 @@
 👋🏼 Hi, I am Altamash!
 ==========================
 
-An alumni of Texas A&M University, Altamash currently works as a full-stack engineer at J.P. Morgan, having also previously interned there and at American Express.
+### Summary
 
-* 🖥️  See my portfolio at [altamashali.com (alta.li)](http://altamashali.com)
+* 💼  I'm a full-stack software engineer at J.P. Morgan 
+* 📂  I've previously interned at J.P. Morgan and American Express
+* 🎓  I hold a B.S. in Computer Science from Texas A&M University
+* 🖥️  See my portfolio at [altamashali.com (alta.li)](http://altamashali.com)
 * ✉️  You can contact me at [contact@altamashali.com](mailto:contact@altamashali.com)
 * 🚀  I'm currently working on [API development](http://github.com/altamashali/got-shot-bot-api)
 * 🧠  I'm learning Next.js, Elixir, and Phoenix
-
-### Social Media
-
-<a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### My Skills
 
@@ -35,3 +32,10 @@ src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-th
 ### My GitHub Stats
 
 <a href="http://www.github.com/altamashali"><img src="https://github-readme-stats.vercel.app/api?username=altamashali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="altamashali's GitHub stats" /></a>
+
+### Social Media
+
+<a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
