@@ -6,8 +6,6 @@
 * 💼  I'm a full-stack software engineer at J.P. Morgan 
 * 📂  I've previously interned at J.P. Morgan and American Express
 * 🎓  I hold a B.S. in Computer Science from Texas A&M University
-* 🖥️  See my portfolio at [altamashali.com (alta.li)](http://altamashali.com)
-* ✉️  You can contact me at [contact@altamashali.com](mailto:contact@altamashali.com)
 * 🚀  I'm currently working on [API development](http://github.com/altamashali/got-shot-bot-api)
 * 🧠  I'm learning Next.js, Elixir, and Phoenix
 
@@ -35,7 +33,9 @@
 
 ### Social Media
 
-<a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
+* 🖥️  See my portfolio at [altamashali.com](http://altamashali.com) or [alta.li](http://alta.li)
+* ✉️  You can contact me at [hi@alta.li](mailto:hi@alta.li)
+* <a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
