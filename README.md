@@ -33,8 +33,8 @@
 
 ### Contact
 
-* 🖥️  See my portfolio at [altamashali.com](http://altamashali.com) or [alta.li](http://alta.li)
-* ✉️  You can contact me at [hi@alta.li](mailto:hi@alta.li)
+* 🖥️  View my portfolio at [altamashali.com](http://altamashali.com) or [alta.li](http://alta.li)
+* ✉️ Contact me at [hi@alta.li](mailto:hi@alta.li)
 * <a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
