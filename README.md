@@ -1,15 +1,23 @@
 👋🏼 Hi, I am Altamash!
 ==========================
 
-### Summary
+### ⚙️ About Me
 
-* 💼  I'm a full-stack software engineer at J.P. Morgan 
-* 📂  I've previously interned at J.P. Morgan and American Express
-* 🎓  I hold a B.S. in Computer Science from Texas A&M University
-* 🚀  I'm currently working on [API development](http://github.com/altamashali/got-shot-bot-api)
-* 🧠  I'm learning Next.js, Elixir, and Phoenix
+* 💼  Software Engineer at J.P. Morgan 
+* 📂  Former Software Engineer Intern at J.P. Morgan and American Express
+* 🎓  B.S. in Computer Science from Texas A&M University
+* 🚀  View my portfolio at [altamashali.com](http://altamashali.com) or [alta.li](http://alta.li)
+* 🧠  Currently learning Next.js, Elixir, and Phoenix
 
-### My Skills
+### 👋 Contact
+
+* 🐸 Find me on Mastodon: [alta@toad.social](http://toad.social/alta)
+* ✉️ Email me at: [hi@alta.li](mailto:hi@alta.li)
+* <a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### 🛠️ Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -27,15 +35,6 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-### My GitHub Stats
+### 💻 My GitHub Stats
 
 <a href="http://www.github.com/altamashali"><img src="https://github-readme-stats.vercel.app/api?username=altamashali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="altamashali's GitHub stats" /></a>
-
-### Contact
-
-* 🖥️  View my portfolio at [altamashali.com](http://altamashali.com) or [alta.li](http://alta.li)
-* ✉️ Contact me at [hi@alta.li](mailto:hi@alta.li)
-* <a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
