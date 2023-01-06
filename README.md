@@ -11,7 +11,7 @@
 
 ### 👋 Contact
 
-* 🐸 Find me on Mastodon: [alta@toad.social](http://toad.social/alta)
+* 🐸 Find me on Mastodon: [alta@toad.social](http://toad.social/@alta)
 * ✉️ Email me at: [hi@alta.li](mailto:hi@alta.li)
 * <a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
