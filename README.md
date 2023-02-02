@@ -1,4 +1,4 @@
-### 👋🏼 Hi, I'm Altamash!
+## 👋🏼 Hi, I'm Altamash!
 
 | 💼   | SWE II @ JPMorgan  |
 |:---  | :----------------  |
@@ -8,7 +8,7 @@
 | ✉️    | __[hello@altamashali.com](mailto:hello@altamashali.com)__ |
 | 💬   | __[@itsaltamash](https://twitter.com/itsaltamash)__ |
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
