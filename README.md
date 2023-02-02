@@ -4,8 +4,8 @@
 * 💼  Software Engineer at J.P. Morgan 
 * 📂  Former Software Engineer Intern at J.P. Morgan and American Express
 * 🎓  B.S. in Computer Science from Texas A&M University
-* 🚀  View my portfolio at [altamashali.com](http://altamashali.com) or [alta.li](http://alta.li)
-* ✉️ Email me at: [hi@alta.li](mailto:hi@alta.li)
+* 🚀  View my portfolio at [altamashali.com](http://altamashali.com)
+* ✉️ Contact Me: [hello@altamashali.com](mailto:hello@altamashali.com)
 * <a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
