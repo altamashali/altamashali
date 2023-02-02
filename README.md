@@ -2,8 +2,8 @@
 
 | 💼   | SWE II @ JPMorgan  |
 |:---  | :----------------  |
-| 📁   | __Former SWE Intern @ JPMorgan, American Express__ |
-| 🎓   | __BS in Computer Science @ Texas A&M__ |
+| 📁   | __Ex-Intern @ JPMorgan, American Express__ |
+| 🎓   | __BSCS @ Texas A&M__ |
 | 🌐   | __[altamashali.com](https://altamashali.com)__ |
 | ✉️    | __[hello@altamashali.com](mailto:hello@altamashali.com)__ |
 | 💬   | __[@itsaltamash](https://twitter.com/itsaltamash)__ |
