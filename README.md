@@ -5,9 +5,9 @@ Hi, I'm Altamash! 👋🏼
 |:---  | :----------------  |
 | 📁   | __Former SWE Intern @ JPMorgan, American Express__ |
 | 🎓   | __BS in Computer Science @ Texas A&M__ |
-| 🌐   | __[altamashali.com](altamashali.com)__ |
+| 🌐   | __[altamashali.com](https://altamashali.com)__ |
 | ✉️    | __[hello@altamashali.com](mailto:hello@altamashali.com)__ |
-| 💬   | __[@itsaltamash](twitter.com/itsaltamash)__ |
+| 💬   | __[@itsaltamash](https://twitter.com/itsaltamash)__ |
 
 ### 🛠️ Skills
 
