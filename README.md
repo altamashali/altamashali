@@ -1,14 +1,13 @@
 Hi, I'm Altamash! 👋🏼 
 ==========================
 
-* 💼 SWE @ JPMorgan
-* 📁 Former SWE Intern @ JPMorgan, American Express
-* 🎓  BS in Computer Science @ Texas A&M
-* 🚀  Portfolio @ [altamashali.com](http://altamashali.com)
-* ✉️ Contact @ [hello@altamashali.com](mailto:hello@altamashali.com)
-* <a href="https://www.twitter.com/itsaltamash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itsaltamash?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+| 💼   | SWE II @ JPMorgan  |
+|:---  | :----------------  |
+| 📁   | __Former SWE Intern @ JPMorgan, American Express__ |
+| 🎓   | __BS in Computer Science @ Texas A&M__ |
+| 🌐   | __[altamashali.com](altamashali.com)__ |
+| ✉️    | __[hello@altamashali.com](mailto:hello@altamashali.com)__ |
+| 💬   | __[@itsaltamash](twitter.com/itsaltamash)__ |
 
 ### 🛠️ Skills
 
