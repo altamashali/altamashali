@@ -4,7 +4,7 @@
 |:---  | :----------------  |
 | 📁   | __Ex-SWE Intern @ JPMorgan, American Express__ |
 | 🎓   | __BSCS @ Texas A&M__ |
-| 🌐   | __[altamashali.com](https://altamashali.com)__ |
+| 🌐   | __[altamashali.com](https://altamashali.com)__ (__[alt.al](http://alt.al))__ |
 | ✉️    | __[hello@altamashali.com](mailto:hello@altamashali.com)__ |
 | 💬   | __[@itsaltamash](https://twitter.com/itsaltamash)__ |
 
