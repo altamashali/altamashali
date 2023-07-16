@@ -1,10 +1,9 @@
 ## 👋🏼 Hi, I'm Altamash!
 
-| 💼   | Ex-SWE @ JPMorgan, Amex |
-|:---  | :----------------  |
-| 🎓   | __CS @ Cornell (MEng), Texas A&M (BS)__ |
-| 🌐   | __[altamashali.com](https://altamashali.com)__ (__[alt.al](http://alt.al))__ |
-| ✉️    | __[hello@altamashali.com](mailto:hello@altamashali.com)__ |
+- 💼 Ex-SWE @ JPMorgan, Amex
+- 🎓 CS @ Cornell (MEng), Texas A&M (BS)
+- 🌐 [altamashali.com](https://altamashali.com)
+- ✉️ [hello@altamashali.com](mailto:hello@altamashali.com)
 
 ## 🛠️ Skills
 
