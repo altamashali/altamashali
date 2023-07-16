@@ -1,8 +1,8 @@
 ## 👋🏼 Hi, I'm Altamash!
 
-| 💼   | SWE II @ JPM, __Ex-SWE Intern @ JPM, Amex__  |
+| 💼   | Ex-SWE @ JPMorgan, Amex |
 |:---  | :----------------  |
-| 🎓   | __MEng CS @ Cornell (ongoing), BS CS @ Texas A&M__ |
+| 🎓   | __CS @ Cornell (MEng), Texas A&M (BS)__ |
 | 🌐   | __[altamashali.com](https://altamashali.com)__ (__[alt.al](http://alt.al))__ |
 | ✉️    | __[hello@altamashali.com](mailto:hello@altamashali.com)__ |
 
