@@ -1,10 +1,10 @@
 ## 👋🏼 Hi, I'm Altamash!
 
-- 💼 Software Engineer (Previously J.P. Morgan, Amex)
-- 🎓 MEng in Computer Science @ Cornell University
-- 🎓 BS in Computer Science @ Texas A&M University
-- 🌐 [altamashali.com](https://altamashali.com)
-- ✉️ [hello@altamashali.com](mailto:hello@altamashali.com)
+- Software Engineer (Previously at J.P. Morgan, Amex)
+- MEng in Computer Science (Cornell University)
+- BS in Computer Science (Texas A&M University)
+- Website: [altamashali.com](https://altamashali.com)
+- Contact: [hello@altamashali.com](mailto:hello@altamashali.com)
 
 ## 🛠️ Skills
 
