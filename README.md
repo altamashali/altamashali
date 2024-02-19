@@ -3,9 +3,8 @@
 - Software Engineer (Previously at J.P. Morgan, Amex)
 - M.Eng. in Computer Science (Cornell University)
 - B.S. in Computer Science (Texas A&M University)
-- Personal Website: [altamashali.com](https://altamashali.com/)
-- More About Me: [altamash.bio.link](https://altamash.bio.link/)
-- Contact: [contact@altamashali.com](mailto:contact@altamashali.com)
+- Website: [altamashali.com](https://altamashali.com/)
+- Email: [contact@altamashali.com](mailto:contact@altamashali.com)
 
 ## 🛠️ Skills
 
