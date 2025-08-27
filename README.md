@@ -4,4 +4,4 @@ Altamash Ali is a software engineer with experience building full-stack applicat
 
 *Views after 08/20/2025:*
 
-![](https://komarev.com/ghpvc/?username=altamashali&color=33443c&style=flat) 
+![](https://komarev.com/ghpvc/?username=altamashali&color=f76f53&style=flat) 
