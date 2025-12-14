@@ -1,6 +1,6 @@
 ## Welcome to Altamash's GitHub!
 
-Altamash Ali is a software engineer with experience building full-stack applications for Fortune 100 firms. He has worked extensively across data, web technologies, analytics, and design. Most recently, at J.P. Morgan he developed electronic trading systems used to price and structure derivatives like foreign exchange options and futures. His background also includes application security, developed during his time at American Express. Altamash has contributed to various projects spanning user experience research, interface design, and even high-performance computing which enabled faster processing of complex data sets. He graduated summa cum laude from Cornell University with a master’s degree in computer science.
+Altamash is a software engineer with experience working for Fortune 100 firms across various industries including banking, financial services, and digital publishing. His current role at Gann Law involves building digital solutions which enhance how legal professionals access and interact with the in-depth analysis, insights, and other research content that the firm publishes. Prior to this, Altamash developed electronic trading systems at J.P. Morgan which were used for pricing and structuring derivative financial products. He has also contributed to various projects focused on user experience, interface design, application security, and high-performance computing. Altamash graduated summa cum laude from Cornell University with a master’s degree in computer science.
 
 *Views since 08/20/2025:*
 
