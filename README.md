@@ -4,6 +4,4 @@
 
 --- 
 
-Email: contact@altamashali.com • [LinkedIn](https://www.linkedin.com/in/altamashali/) • [View Resume](https://www.altamashali.com/resume.html)
-
-<img src="https://komarev.com/ghpvc/?username=altamashali&color=d87657&style=flat" alt="Profile views" align="absmiddle" />
+<a href="mailto:contact@altamashali.com"><img src="https://img.shields.io/badge/Email-contact@altamashali.com-d87657?style=flat" alt="Email" align="absmiddle" /></a> <a href="https://www.linkedin.com/in/altamashali/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d87657?style=flat" alt="LinkedIn" align="absmiddle" /></a> <a href="https://www.altamashali.com/resume.html"><img src="https://img.shields.io/badge/Resume-View-d87657?style=flat" alt="Resume" align="absmiddle" /></a> <img src="https://komarev.com/ghpvc/?username=altamashali&color=d87657&style=flat" alt="Profile views" align="absmiddle" />
