@@ -6,4 +6,4 @@ At Gann Law, he works at the intersection of technology and law, developing digi
 
 Outside of work, he enjoys learning languages, photographing his travels, and pursuing other creative ventures.
 
-<a href="https://www.altamashali.com/resume.html"><img src="https://img.shields.io/badge/Resume-View-d87657?style=flat" alt="Resume" /></a> <img src="https://komarev.com/ghpvc/?username=altamashali&color=d87657&style=flat" alt="Profile views"/>
+<a href="https://www.altamashali.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-View-d87657?style=flat" alt="Resume" /></a> <img src="https://komarev.com/ghpvc/?username=altamashali&color=d87657&style=flat" alt="Profile views"/>
